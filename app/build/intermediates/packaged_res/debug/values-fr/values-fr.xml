@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tags">
+        <item>plat principal</item>
+        <item>accompagnement</item>
+        <item>dessert</item>
+        <item>entrée</item>
+        <item>salade</item>
+        <item>pain</item>
+        <item>petit déjeuner</item>
+        <item>soupe</item>
+        <item>boisson</item>
+        <item>sauce</item>
+        <item>marinade</item>
+        <item>amuse-gueule</item>
+        <item>en-cas</item>
+        <item>boisson</item>
+    </string-array>
+    <string name="api_key">4b6e3b52a39243c19aaa18aca7596835</string>
+    <string name="app_name">Quête de Saveurs</string>
+</resources>

@@ -1,0 +1,227 @@
+04-10 18:28:49.435 10931 10956 I TestRunner: started: mainActivityMeetTest3(algonquin.cst2335.finalproject.MainActivityMeetTest3)
+04-10 18:28:49.459 10931 10956 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+04-10 18:28:49.529  1380  2526 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8298496
+04-10 18:28:49.593  5784  5784 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+04-10 18:28:49.593  5784  5821 I HwDetectorWithState: (REDACTED) a: %d
+04-10 18:28:49.715  9346  9395 D EGL_emulation: eglMakeCurrent: 0xa68fd4e0: ver 3 0 (tinfo 0xa689b500)
+04-10 18:28:49.720  6962  7459 D EGL_emulation: eglMakeCurrent: 0x7e7660a0: ver 3 0 (tinfo 0x7c8374f0)
+04-10 18:28:49.842 10931 10931 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+04-10 18:28:49.873 10931 10931 D LifecycleMonitor: Lifecycle status change: algonquin.cst2335.finalproject.MainActivityMeet@82bb8fe in: PRE_ON_CREATE
+04-10 18:28:49.875 10931 10931 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+04-10 18:28:50.197  1677  1901 D EGL_emulation: eglMakeCurrent: 0x89d2de00: ver 3 0 (tinfo 0x89d1ec30)
+04-10 18:28:50.381  1677  1901 D EGL_emulation: eglMakeCurrent: 0x89d2de00: ver 3 0 (tinfo 0x89d1ec30)
+04-10 18:28:50.710 10931 10943 I zygote  : Background concurrent copying GC freed 8275(1203KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 2MB/4MB, paused 3.287ms total 672.988ms
+04-10 18:28:51.136 10931 10931 D LifecycleMonitor: Lifecycle status change: algonquin.cst2335.finalproject.MainActivityMeet@82bb8fe in: CREATED
+04-10 18:28:51.137 10931 10931 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=algonquin.cst2335.finalproject.MainActivityMeet@82bb8fe
+04-10 18:28:51.155 10931 10931 D LifecycleMonitor: Lifecycle status change: algonquin.cst2335.finalproject.MainActivityMeet@82bb8fe in: STARTED
+04-10 18:28:51.155 10931 10931 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=algonquin.cst2335.finalproject.MainActivityMeet@82bb8fe
+04-10 18:28:51.168 10931 10931 D LifecycleMonitor: Lifecycle status change: algonquin.cst2335.finalproject.MainActivityMeet@82bb8fe in: RESUMED
+04-10 18:28:51.171 10931 10931 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=algonquin.cst2335.finalproject.MainActivityMeet@82bb8fe
+04-10 18:28:51.189  1391  1405 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+04-10 18:28:51.190 10931 10966 D OpenGLRenderer: HWUI GL Pipeline
+04-10 18:28:51.416 10931 10966 D         : HostConnection::get() New Host Connection established 0x8a1bc100, tid 10966
+04-10 18:28:51.424 10931 10966 I zygote  : android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+04-10 18:28:51.424 10931 10966 I OpenGLRenderer: Initialized EGL, version 1.4
+04-10 18:28:51.424 10931 10966 D OpenGLRenderer: Swap behavior 1
+04-10 18:28:51.426 10931 10966 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+04-10 18:28:51.426 10931 10966 D OpenGLRenderer: Swap behavior 0
+04-10 18:28:51.428  1380  2526 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8298496
+04-10 18:28:51.430 10931 10966 D EGL_emulation: eglCreateContext: 0x9e6a3f80: maj 3 min 0 rcv 3
+04-10 18:28:51.434 10931 10966 D EGL_emulation: eglMakeCurrent: 0x9e6a3f80: ver 3 0 (tinfo 0x9e6d0400)
+04-10 18:28:51.437  1380  2526 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8298496
+04-10 18:28:51.441  1391  1405 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+04-10 18:28:51.443  1380  1380 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8298496
+04-10 18:28:51.718 10931 10966 D EGL_emulation: eglMakeCurrent: 0x9e6a3f80: ver 3 0 (tinfo 0x9e6d0400)
+04-10 18:28:51.766 10931 10937 I zygote  : Do partial code cache collection, code=19KB, data=30KB
+04-10 18:28:51.766 10931 10937 I zygote  : After code cache collection, code=19KB, data=30KB
+04-10 18:28:51.766 10931 10937 I zygote  : Increasing code cache capacity to 128KB
+04-10 18:28:51.836 10931 10937 I zygote  : Do partial code cache collection, code=24KB, data=49KB
+04-10 18:28:51.836 10931 10937 I zygote  : After code cache collection, code=24KB, data=49KB
+04-10 18:28:51.836 10931 10937 I zygote  : Increasing code cache capacity to 256KB
+04-10 18:28:51.836 10931 10937 I zygote  : JIT allocated 71KB for compiled code of void android.widget.TextView.<init>(android.content.Context, android.util.AttributeSet, int, int)
+04-10 18:28:51.836 10931 10937 I zygote  : Compiler allocated 4MB to compile void android.widget.TextView.<init>(android.content.Context, android.util.AttributeSet, int, int)
+04-10 18:28:51.981  1531  1590 I ActivityManager: Displayed algonquin.cst2335.finalproject/.MainActivityMeet: +2s464ms
+04-10 18:28:52.251 10931 10931 I Choreographer: Skipped 36 frames!  The application may be doing too much work on its main thread.
+04-10 18:28:52.297  1380  1380 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 2813952
+04-10 18:28:52.300  1380  1380 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 2813952
+04-10 18:28:52.301  1380  2526 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 2813952
+04-10 18:28:52.331  1531  1557 W Binder  : Outgoing transactions from this process must be FLAG_ONEWAY
+04-10 18:28:52.331  1531  1557 W Binder  : java.lang.Throwable
+04-10 18:28:52.331  1531  1557 W Binder  : 	at android.os.BinderProxy.transact(Binder.java:752)
+04-10 18:28:52.331  1531  1557 W Binder  : 	at android.app.assist.AssistStructure$ParcelTransferReader.fetchData(AssistStructure.java:407)
+04-10 18:28:52.331  1531  1557 W Binder  : 	at android.app.assist.AssistStructure$ParcelTransferReader.go(AssistStructure.java:343)
+04-10 18:28:52.331  1531  1557 W Binder  : 	at android.app.assist.AssistStructure.ensureData(AssistStructure.java:2110)
+04-10 18:28:52.331  1531  1557 W Binder  : 	at com.android.server.autofill.Session$1.send(Session.java:227)
+04-10 18:28:52.331  1531  1557 W Binder  : 	at com.android.server.am.ActivityManagerService.reportAssistContextExtras(ActivityManagerService.java:13272)
+04-10 18:28:52.331  1531  1557 W Binder  : 	at android.app.IActivityManager$Stub.onTransact(IActivityManager.java:2472)
+04-10 18:28:52.331  1531  1557 W Binder  : 	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:2919)
+04-10 18:28:52.331  1531  1557 W Binder  : 	at android.os.Binder.execTransact(Binder.java:697)
+04-10 18:28:52.335 10931 10931 I AssistStructure: Flattened final assist data: 5368 bytes, containing 2 windows, 20 views
+04-10 18:28:52.339  1531  4828 I AssistStructure: Flattened final assist data: 5088 bytes, containing 2 windows, 20 views
+04-10 18:28:52.340  6463  6463 W AutofillChimeraService: Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+04-10 18:28:52.365 10931 10966 D EGL_emulation: eglMakeCurrent: 0x9e6a3f80: ver 3 0 (tinfo 0x9e6d0400)
+04-10 18:28:52.379 10931 10966 I chatty  : uid=10086(algonquin.cst2335.finalproject) RenderThread identical 1 line
+04-10 18:28:52.406 10931 10966 D EGL_emulation: eglMakeCurrent: 0x9e6a3f80: ver 3 0 (tinfo 0x9e6d0400)
+04-10 18:28:52.543  6463  6835 I FontLog : (REDACTED) Received query %s, URI %s
+04-10 18:28:52.543  6463  6835 I FontLog : (REDACTED) Query [%s] resolved to %s
+04-10 18:28:52.558  6463  6835 I FontLog : (REDACTED) Fetch %s end status %s
+04-10 18:28:52.561 10931 10966 D EGL_emulation: eglMakeCurrent: 0x9e6a3f80: ver 3 0 (tinfo 0x9e6d0400)
+04-10 18:28:52.603 10931 10966 I chatty  : uid=10086(algonquin.cst2335.finalproject) RenderThread identical 2 lines
+04-10 18:28:52.622 10931 10966 D EGL_emulation: eglMakeCurrent: 0x9e6a3f80: ver 3 0 (tinfo 0x9e6d0400)
+04-10 18:28:52.702  1391  1391 W SurfaceFlinger: couldn't log to binary event log: overflow.
+04-10 18:28:52.717  6463  6835 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+04-10 18:28:52.753  6463  6835 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+04-10 18:28:53.806  1670  1670 W GInputConnectionWrapper: Fixing selection indices to 0, 0
+04-10 18:28:54.619 10931 10970 D ProfileInstaller: Installing profile for algonquin.cst2335.finalproject
+04-10 18:28:54.943  1670  1670 I Choreographer: Skipped 176 frames!  The application may be doing too much work on its main thread.
+04-10 18:28:54.993  1380  2526 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8024064
+04-10 18:28:55.010  1380  2526 I chatty  : uid=1000(system) HwBinder:1380_3 identical 1 line
+04-10 18:28:55.021  1380  2526 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8024064
+04-10 18:28:55.383  1670  4968 D EGL_emulation: eglMakeCurrent: 0x89338560: ver 3 0 (tinfo 0x88a1f780)
+04-10 18:28:55.459 10931 10964 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+04-10 18:28:55.977 10931 10966 D EGL_emulation: eglMakeCurrent: 0x9e6a3f80: ver 3 0 (tinfo 0x9e6d0400)
+04-10 18:28:56.003 10931 10966 I chatty  : uid=10086(algonquin.cst2335.finalproject) RenderThread identical 2 lines
+04-10 18:28:56.031 10931 10966 D EGL_emulation: eglMakeCurrent: 0x9e6a3f80: ver 3 0 (tinfo 0x9e6d0400)
+04-10 18:28:57.861 10931 10956 W FileTestStorage: Output properties is not supported.
+04-10 18:28:57.925 10931 10931 D LifecycleMonitor: Lifecycle status change: algonquin.cst2335.finalproject.MainActivityMeet@82bb8fe in: PAUSED
+04-10 18:28:57.927 10931 10931 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=algonquin.cst2335.finalproject.MainActivityMeet@82bb8fe
+04-10 18:28:58.000  1380  2526 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8298496
+04-10 18:28:58.282 10971 10971 I zygote  : Late-enabling -Xcheck:jni
+04-10 18:28:59.397 10971 10971 W zygote  : Unexpected CPU variant for X86 using defaults: x86
+04-10 18:28:59.876  1531  1577 E memtrack: Couldn't load memtrack module
+04-10 18:28:59.876  1531  1577 W android.os.Debug: failed to get memory consumption info: -1
+04-10 18:28:59.888  4326  4326 I Finsky  : [2] acmf.onStartJob(128): SCH: job service start with id 9443.
+04-10 18:28:59.914  4326 10788 I Finsky  : [738] kyl.a(134): SCH: Satisfied jobs for 9443 are: 12-1
+04-10 18:29:00.034  1380  2526 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8298496
+04-10 18:29:00.040  1531  1557 D         : HostConnection::get() New Host Connection established 0x8582fb00, tid 1557
+04-10 18:29:00.075 10931 10966 D EGL_emulation: eglMakeCurrent: 0x9e6a3f80: ver 3 0 (tinfo 0x9e6d0400)
+04-10 18:29:00.131 10971 10971 I zygote  : The ClassLoaderContext is a special shared library.
+04-10 18:29:00.132 10971 10971 I zygote  : The ClassLoaderContext is a special shared library.
+04-10 18:29:00.313  1677  1901 D EGL_emulation: eglMakeCurrent: 0x89d2de00: ver 3 0 (tinfo 0x89d1ec30)
+04-10 18:29:00.320  1391  1878 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+04-10 18:29:00.320 10971 10993 D OpenGLRenderer: HWUI GL Pipeline
+04-10 18:29:00.357  1677  1901 D EGL_emulation: eglMakeCurrent: 0x89d2de00: ver 3 0 (tinfo 0x89d1ec30)
+04-10 18:29:00.382  4326 10987 I Finsky  : [750] zqa.accept(444): SCH: Job 12-1 starting
+04-10 18:29:00.384  1677  1901 D EGL_emulation: eglMakeCurrent: 0x89d2de00: ver 3 0 (tinfo 0x89d1ec30)
+04-10 18:29:00.420 10971 10993 D         : HostConnection::get() New Host Connection established 0x9bd29500, tid 10993
+04-10 18:29:00.421  1380  2526 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8298496
+04-10 18:29:00.432  1380  2526 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8298496
+04-10 18:29:00.437  1380  1380 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8298496
+04-10 18:29:00.449 10971 10993 I zygote  : android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+04-10 18:29:00.449 10971 10993 I OpenGLRenderer: Initialized EGL, version 1.4
+04-10 18:29:00.449 10971 10993 D OpenGLRenderer: Swap behavior 1
+04-10 18:29:00.450 10971 10993 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+04-10 18:29:00.450 10971 10993 D OpenGLRenderer: Swap behavior 0
+04-10 18:29:00.453 10971 10993 D EGL_emulation: eglCreateContext: 0xa68fd1e0: maj 3 min 0 rcv 3
+04-10 18:29:00.454 10971 10993 D EGL_emulation: eglMakeCurrent: 0xa68fd1e0: ver 3 0 (tinfo 0xa689b260)
+04-10 18:29:00.457  1391  1472 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+04-10 18:29:00.484 10971 10993 D EGL_emulation: eglMakeCurrent: 0xa68fd1e0: ver 3 0 (tinfo 0xa689b260)
+04-10 18:29:00.531 10971 10982 I zygote  : Background concurrent copying GC freed 5237(2MB) AllocSpace objects, 0(0B) LOS objects, 58% free, 1103KB/2MB, paused 367us total 101.573ms
+04-10 18:29:00.562  4326  4326 I Finsky  : [2] ContentSyncJob.h(11): [ContentSync] job started
+04-10 18:29:00.605  1531  1590 I ActivityManager: Displayed algonquin.cst2335.finalproject.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +2s547ms
+04-10 18:29:00.607  1677  1901 D EGL_emulation: eglMakeCurrent: 0x89d2de00: ver 3 0 (tinfo 0x89d1ec30)
+04-10 18:29:00.662  1670  4968 D EGL_emulation: eglMakeCurrent: 0x89338560: ver 3 0 (tinfo 0x88a1f780)
+04-10 18:29:01.202  1677  1699 I zygote  : NativeAlloc concurrent copying GC freed 1538(223KB) AllocSpace objects, 0(0B) LOS objects, 50% free, 5MB/10MB, paused 19us total 1.043s
+04-10 18:29:01.240  1531  2210 I zygote  : android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+04-10 18:29:01.240  1531  2210 I OpenGLRenderer: Initialized EGL, version 1.4
+04-10 18:29:01.240  1531  2210 D OpenGLRenderer: Swap behavior 1
+04-10 18:29:01.273 10931 10931 D LifecycleMonitor: Lifecycle status change: algonquin.cst2335.finalproject.MainActivityMeet@82bb8fe in: STOPPED
+04-10 18:29:01.274 10931 10931 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=algonquin.cst2335.finalproject.MainActivityMeet@82bb8fe
+04-10 18:29:01.347  1531  2210 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+04-10 18:29:01.347  1531  2210 D OpenGLRenderer: Swap behavior 0
+04-10 18:29:01.374  1531  2210 D EGL_emulation: eglCreateContext: 0x89b9ba60: maj 3 min 0 rcv 3
+04-10 18:29:01.454 10931 10931 I Choreographer: Skipped 30 frames!  The application may be doing too much work on its main thread.
+04-10 18:29:01.482  1531  2210 D EGL_emulation: eglMakeCurrent: 0x89b9ba60: ver 3 0 (tinfo 0x855344e0)
+04-10 18:29:01.528  1380  1380 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8298496
+04-10 18:29:01.529  1380  1380 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8298496
+04-10 18:29:01.530  1380  2526 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8298496
+04-10 18:29:01.574  5784  5784 I GsaVoiceInteractionSrv: Handling ACTION_START_HOTWORD
+04-10 18:29:01.574  5784  5823 I GsaVoiceInteractionSrv: (REDACTED) disregardHotwordSetting: %b
+04-10 18:29:01.574  5784  5823 I GsaVoiceInteractionSrv: Cannot start hotword, hotword has been explicitly disabled.
+04-10 18:29:01.587  1391  1391 D SurfaceFlinger: duplicate layer name: changing com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity to com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity#1
+04-10 18:29:01.603  1380  2526 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8298496
+04-10 18:29:01.612  1380  1380 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8298496
+04-10 18:29:01.615  1380  2526 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8298496
+04-10 18:29:01.629  9346  9395 D EGL_emulation: eglMakeCurrent: 0xa68fd4e0: ver 3 0 (tinfo 0xa689b500)
+04-10 18:29:01.717  1531  1543 I zygote  : NativeAlloc concurrent copying GC freed 24842(1685KB) AllocSpace objects, 20(784KB) LOS objects, 34% free, 11MB/17MB, paused 58us total 1.158s
+04-10 18:29:01.745 10931 10937 I zygote  : Do full code cache collection, code=107KB, data=86KB
+04-10 18:29:01.774 10931 10931 D LifecycleMonitor: Lifecycle status change: algonquin.cst2335.finalproject.MainActivityMeet@82bb8fe in: DESTROYED
+04-10 18:29:01.777 10931 10931 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+04-10 18:29:01.816 10971 10993 D EGL_emulation: eglMakeCurrent: 0xa68fd1e0: ver 3 0 (tinfo 0xa689b260)
+04-10 18:29:01.834  1677  1901 D EGL_emulation: eglMakeCurrent: 0x89d2de00: ver 3 0 (tinfo 0x89d1ec30)
+04-10 18:29:01.859  1391  1391 W SurfaceFlinger: couldn't log to binary event log: overflow.
+04-10 18:29:01.869  1677  1901 D EGL_emulation: eglMakeCurrent: 0x89d2de00: ver 3 0 (tinfo 0x89d1ec30)
+04-10 18:29:01.922 10931 10937 I zygote  : After code cache collection, code=104KB, data=51KB
+04-10 18:29:01.942  6962  7459 D EGL_emulation: eglMakeCurrent: 0x7e7660a0: ver 3 0 (tinfo 0x7c8374f0)
+04-10 18:29:02.145  9346  9395 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+04-10 18:29:02.261 10931 10931 E WindowManager:
+04-10 18:29:02.261 10931 10931 E WindowManager: android.view.WindowLeaked: Activity algonquin.cst2335.finalproject.MainActivityMeet has leaked window DecorView@847a9e3[Loading] that was originally added here
+04-10 18:29:02.261 10931 10931 E WindowManager: 	at android.view.ViewRootImpl.<init>(ViewRootImpl.java:485)
+04-10 18:29:02.261 10931 10931 E WindowManager: 	at android.view.WindowManagerGlobal.addView(WindowManagerGlobal.java:346)
+04-10 18:29:02.261 10931 10931 E WindowManager: 	at android.view.WindowManagerImpl.addView(WindowManagerImpl.java:93)
+04-10 18:29:02.261 10931 10931 E WindowManager: 	at android.app.Dialog.show(Dialog.java:330)
+04-10 18:29:02.261 10931 10931 E WindowManager: 	at algonquin.cst2335.finalproject.MainActivityMeet$2.onItemSelected(MainActivityMeet.java:140)
+04-10 18:29:02.261 10931 10931 E WindowManager: 	at android.widget.AdapterView.fireOnSelected(AdapterView.java:944)
+04-10 18:29:02.261 10931 10931 E WindowManager: 	at android.widget.AdapterView.dispatchOnItemSelected(AdapterView.java:933)
+04-10 18:29:02.261 10931 10931 E WindowManager: 	at android.widget.AdapterView.-wrap1(Unknown Source:0)
+04-10 18:29:02.261 10931 10931 E WindowManager: 	at android.widget.AdapterView$SelectionNotifier.run(AdapterView.java:898)
+04-10 18:29:02.261 10931 10931 E WindowManager: 	at android.os.Handler.handleCallback(Handler.java:790)
+04-10 18:29:02.261 10931 10931 E WindowManager: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+04-10 18:29:02.261 10931 10931 E WindowManager: 	at android.os.Looper.loop(Looper.java:164)
+04-10 18:29:02.261 10931 10931 E WindowManager: 	at android.app.ActivityThread.main(ActivityThread.java:6494)
+04-10 18:29:02.261 10931 10931 E WindowManager: 	at java.lang.reflect.Method.invoke(Native Method)
+04-10 18:29:02.261 10931 10931 E WindowManager: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:438)
+04-10 18:29:02.261 10931 10931 E WindowManager: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:807)
+04-10 18:29:02.334 10931 10956 E TestRunner: failed: mainActivityMeetTest3(algonquin.cst2335.finalproject.MainActivityMeetTest3)
+04-10 18:29:02.336 10931 10956 E TestRunner: ----- begin exception -----
+04-10 18:29:02.339 10931 10956 E TestRunner: java.lang.NoSuchMethodError: No static method forceEnableAppTracing()V in class Landroidx/tracing/Trace; or its super classes (declaration of 'androidx.tracing.Trace' appears in /data/app/algonquin.cst2335.finalproject-rphythvGEuOoM-wxahnDVQ==/base.apk)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.platform.tracing.AndroidXTracer.enableTracing(AndroidXTracer.java:57)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.platform.tracing.Tracing.<init>(Tracing.java:53)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.platform.tracing.Tracing.<clinit>(Tracing.java:49)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.platform.tracing.Tracing.getInstance(Tracing.java:62)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.espresso.base.BaseLayerModule.providesTracing(BaseLayerModule.java:192)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.providesTracing(BaseLayerModule_ProvidesTracingFactory.java:37)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.get(BaseLayerModule_ProvidesTracingFactory.java:29)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.get(BaseLayerModule_ProvidesTracingFactory.java:11)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.espresso.core.internal.deps.dagger.internal.DoubleCheck.get(DoubleCheck.java:47)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.espresso.base.IdlingResourceRegistry_Factory.get(IdlingResourceRegistry_Factory.java:34)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.espresso.base.IdlingResourceRegistry_Factory.get(IdlingResourceRegistry_Factory.java:12)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.espresso.core.internal.deps.dagger.internal.DoubleCheck.get(DoubleCheck.java:47)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.espresso.DaggerBaseLayerComponent$BaseLayerComponentImpl.idlingResourceRegistry(DaggerBaseLayerComponent.java:278)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.espresso.Espresso.<clinit>(Espresso.java:64)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.espresso.Espresso.onView(Espresso.java:86)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at algonquin.cst2335.finalproject.MainActivityMeetTest3.mainActivityMeetTest3(MainActivityMeetTest3.java:49)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:68)
+04-10 18:29:02.339 10931 10956 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:
+04-10 18:29:02.339 10931 10956 E TestRunner: ----- end exception -----
+04-10 18:29:02.352 10931 10956 I TestRunner: finished: mainActivityMeetTest3(algonquin.cst2335.finalproject.MainActivityMeetTest3)

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="algonquin.cst2335.finalproject.MainActivityMeetTest3" tests="1" failures="1" errors="0" skipped="0" time="16.236" timestamp="2024-04-10T22:29:06" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_2_API_27(AVD) - 8.1.0" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="mainActivityMeetTest3" classname="algonquin.cst2335.finalproject.MainActivityMeetTest3" time="12.9">
+    <failure>java.lang.NoSuchMethodError: No static method forceEnableAppTracing()V in class Landroidx/tracing/Trace; or its super classes (declaration of 'androidx.tracing.Trace' appears in /data/app/algonquin.cst2335.finalproject-rphythvGEuOoM-wxahnDVQ==/base.apk)
+at androidx.test.platform.tracing.AndroidXTracer.enableTracing(AndroidXTracer.java:57)
+at androidx.test.platform.tracing.Tracing.&lt;init&gt;(Tracing.java:53)
+at androidx.test.platform.tracing.Tracing.&lt;clinit&gt;(Tracing.java:49)
+at androidx.test.platform.tracing.Tracing.getInstance(Tracing.java:62)
+at androidx.test.espresso.base.BaseLayerModule.providesTracing(BaseLayerModule.java:192)
+at androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.providesTracing(BaseLayerModule_ProvidesTracingFactory.java:37)
+at androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.get(BaseLayerModule_ProvidesTracingFactory.java:29)
+at androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.get(BaseLayerModule_ProvidesTracingFactory.java:11)
+at androidx.test.espresso.core.internal.deps.dagger.internal.DoubleCheck.get(DoubleCheck.java:47)
+at androidx.test.espresso.base.IdlingResourceRegistry_Factory.get(IdlingResourceRegistry_Factory.java:34)
+at androidx.test.espresso.base.IdlingResourceRegistry_Factory.get(IdlingResourceRegistry_Factory.java:12)
+at androidx.test.espresso.core.internal.deps.dagger.internal.DoubleCheck.get(DoubleCheck.java:47)
+at androidx.test.espresso.DaggerBaseLayerComponent$BaseLayerComponentImpl.idlingResourceRegistry(DaggerBaseLayerComponent.java:278)
+at androidx.test.espresso.Espresso.&lt;clinit&gt;(Espresso.java:64)
+at androidx.test.espresso.Espresso.onView(Espresso.java:86)
+at algonquin.cst2335.finalproject.MainActivityMeetTest3.mainActivityMeetTest3(MainActivityMeetTest3.java:49)</failure>
+  </testcase>
+</testsuite>

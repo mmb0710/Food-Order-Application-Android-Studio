@@ -1,0 +1,73 @@
+# 2024-04-10T22:29:06.401Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: FAILED
+test_result {
+  test_case {
+    test_class: "MainActivityMeetTest3"
+    test_package: "algonquin.cst2335.finalproject"
+    test_method: "mainActivityMeetTest3"
+    start_time {
+      seconds: 1712788129
+      nanos: 982000000
+    }
+    end_time {
+      seconds: 1712788142
+      nanos: 904000000
+    }
+  }
+  test_status: FAILED
+  error {
+    error_message: "java.lang.NoSuchMethodError: No static method forceEnableAppTracing()V in class Landroidx/tracing/Trace; or its super classes (declaration of \'androidx.tracing.Trace\' appears in /data/app/algonquin.cst2335.finalproject-rphythvGEuOoM-wxahnDVQ==/base.apk)\nat androidx.test.platform.tracing.AndroidXTracer.enableTracing(AndroidXTracer.java:57)\nat androidx.test.platform.tracing.Tracing.<init>(Tracing.java:53)\nat androidx.test.platform.tracing.Tracing.<clinit>(Tracing.java:49)\nat androidx.test.platform.tracing.Tracing.getInstance(Tracing.java:62)\nat androidx.test.espresso.base.BaseLayerModule.providesTracing(BaseLayerModule.java:192)\nat androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.providesTracing(BaseLayerModule_ProvidesTracingFactory.java:37)\nat androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.get(BaseLayerModule_ProvidesTracingFactory.java:29)\nat androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.get(BaseLayerModule_ProvidesTracingFactory.java:11)\nat androidx.test.espresso.core.internal.deps.dagger.internal.DoubleCheck.get(DoubleCheck.java:47)\nat androidx.test.espresso.base.IdlingResourceRegistry_Factory.get(IdlingResourceRegistry_Factory.java:34)\nat androidx.test.espresso.base.IdlingResourceRegistry_Factory.get(IdlingResourceRegistry_Factory.java:12)\nat androidx.test.espresso.core.internal.deps.dagger.internal.DoubleCheck.get(DoubleCheck.java:47)\nat androidx.test.espresso.DaggerBaseLayerComponent$BaseLayerComponentImpl.idlingResourceRegistry(DaggerBaseLayerComponent.java:278)\nat androidx.test.espresso.Espresso.<clinit>(Espresso.java:64)\nat androidx.test.espresso.Espresso.onView(Espresso.java:86)\nat algonquin.cst2335.finalproject.MainActivityMeetTest3.mainActivityMeetTest3(MainActivityMeetTest3.java:49)"
+    error_type: "java.lang.NoSuchMethodError"
+    stack_trace: "java.lang.NoSuchMethodError: No static method forceEnableAppTracing()V in class Landroidx/tracing/Trace; or its super classes (declaration of \'androidx.tracing.Trace\' appears in /data/app/algonquin.cst2335.finalproject-rphythvGEuOoM-wxahnDVQ==/base.apk)\nat androidx.test.platform.tracing.AndroidXTracer.enableTracing(AndroidXTracer.java:57)\nat androidx.test.platform.tracing.Tracing.<init>(Tracing.java:53)\nat androidx.test.platform.tracing.Tracing.<clinit>(Tracing.java:49)\nat androidx.test.platform.tracing.Tracing.getInstance(Tracing.java:62)\nat androidx.test.espresso.base.BaseLayerModule.providesTracing(BaseLayerModule.java:192)\nat androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.providesTracing(BaseLayerModule_ProvidesTracingFactory.java:37)\nat androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.get(BaseLayerModule_ProvidesTracingFactory.java:29)\nat androidx.test.espresso.base.BaseLayerModule_ProvidesTracingFactory.get(BaseLayerModule_ProvidesTracingFactory.java:11)\nat androidx.test.espresso.core.internal.deps.dagger.internal.DoubleCheck.get(DoubleCheck.java:47)\nat androidx.test.espresso.base.IdlingResourceRegistry_Factory.get(IdlingResourceRegistry_Factory.java:34)\nat androidx.test.espresso.base.IdlingResourceRegistry_Factory.get(IdlingResourceRegistry_Factory.java:12)\nat androidx.test.espresso.core.internal.deps.dagger.internal.DoubleCheck.get(DoubleCheck.java:47)\nat androidx.test.espresso.DaggerBaseLayerComponent$BaseLayerComponentImpl.idlingResourceRegistry(DaggerBaseLayerComponent.java:278)\nat androidx.test.espresso.Espresso.<clinit>(Espresso.java:64)\nat androidx.test.espresso.Espresso.onView(Espresso.java:86)\nat algonquin.cst2335.finalproject.MainActivityMeetTest3.mainActivityMeetTest3(MainActivityMeetTest3.java:49)"
+  }
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mmb0702/Desktop/Android/FinalProject_Android/app/build/outputs/androidTest-results/connected/debug/Pixel_2_API_27(AVD) - 8.1.0/logcat-algonquin.cst2335.finalproject.MainActivityMeetTest3-mainActivityMeetTest3.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mmb0702/Desktop/Android/FinalProject_Android/app/build/outputs/androidTest-results/connected/debug/Pixel_2_API_27(AVD) - 8.1.0/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mmb0702/Desktop/Android/FinalProject_Android/app/build/outputs/androidTest-results/connected/debug/Pixel_2_API_27(AVD) - 8.1.0/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/mmb0702/Desktop/Android/FinalProject_Android/app/build/outputs/androidTest-results/connected/debug/Pixel_2_API_27(AVD) - 8.1.0/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/Users/mmb0702/Desktop/Android/FinalProject_Android/app/build/outputs/androidTest-results/connected/debug/Pixel_2_API_27(AVD) - 8.1.0/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
