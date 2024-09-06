@@ -38,7 +38,7 @@ This project was developed as part of the **CST2335 Graphical Interface Programm
 - **Android Studio**: Download and install [Android Studio](https://developer.android.com/studio).
 - **Spoonacular API Key**: Get your API key from [Spoonacular](https://spoonacular.com/food-api/console#Dashboard).
   
-API Information
+##API Information
 Recipe Search URL:
 
 https://api.spoonacular.com/recipes/complexSearch?query=XXXXX&apiKey=YYYYY
@@ -49,24 +49,29 @@ Recipe Details URL:
 https://api.spoonacular.com/recipes/ID/information?apiKey=YYYYY
 Replace ID with the recipe ID from the search results and YYYYY with your API key.
 
-Usage
+### Usage
 Search for a Recipe:
 
 Enter the recipe name in the search field and press the "Search" button.
 The app will display the search results in a RecyclerView.
-View Recipe Details:
+
+## View Recipe Details:
 
 Tap on a recipe from the search results to view its details, including the image, summary, and source URL.
-Save a Recipe:
+
+## Save a Recipe:
 
 Press the "Save" button in the recipe details to store the recipe in your local favorites database.
-View Saved Recipes:
+
+## View Saved Recipes:
 
 Press the "View Favorites" button to see a list of saved recipes from the local database.
-Delete a Recipe:
+
+## Delete a Recipe:
 
 Select a saved recipe and press the "Delete" button to remove it from your favorites list.
-Search Term Memory:
+
+## Search Term Memory:
 
 The app saves the last searched term using SharedPreferences, which is loaded when the app is reopened.
 
