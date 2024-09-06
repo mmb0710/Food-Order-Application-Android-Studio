@@ -50,7 +50,8 @@ https://api.spoonacular.com/recipes/ID/information?apiKey=YYYYY
 Replace ID with the recipe ID from the search results and YYYYY with your API key.
 
 ### Usage
-Search for a Recipe:
+
+##Search for a Recipe:
 
 Enter the recipe name in the search field and press the "Search" button.
 The app will display the search results in a RecyclerView.
